@@ -1,0 +1,16 @@
+.page__footer {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+@media screen and (max-width: 1140px) {
+  
+}
+
+@media screen and (max-width: 984px) {
+  
+}
+
+@media screen and (max-width: 568px) {
+  
+}

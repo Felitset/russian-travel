@@ -1,0 +1,25 @@
+.header__lang-link-en {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+@media screen and (max-width: 568px) {
+  .header__lang-link-en {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
+
+@media screen and (max-width: 1140px) {
+  
+}
+
+@media screen and (max-width: 984px) {
+  
+}
+
+@media screen and (max-width: 568px) {
+  
+}

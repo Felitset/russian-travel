@@ -1,0 +1,19 @@
+.place__link {
+  text-decoration: underline;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media screen and (max-width: 1140px) {
+  
+}
+
+@media screen and (max-width: 984px) {
+  
+}
+
+@media screen and (max-width: 568px) {
+  
+}

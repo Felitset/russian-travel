@@ -1,0 +1,16 @@
+.header__lang-links {
+  display: flex;
+  align-self: end;
+}
+
+@media screen and (max-width: 1140px) {
+  
+}
+
+@media screen and (max-width: 984px) {
+  
+}
+
+@media screen and (max-width: 568px) {
+  
+}

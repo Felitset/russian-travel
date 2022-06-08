@@ -1,0 +1,21 @@
+.footer__link {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 18px;
+}
+
+.footer__link:last-child {
+  margin: 0;
+}
+
+@media screen and (max-width: 1140px) {
+  
+}
+
+@media screen and (max-width: 984px) {
+  
+}
+
+@media screen and (max-width: 568px) {
+  
+}
