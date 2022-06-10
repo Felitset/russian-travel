@@ -4,20 +4,3 @@
   padding: 0;
   margin: 0 auto;
 }
-
-@media screen and (max-width: 1140px) {
-  .content__section {
-    padding: 0;
-    margin: 0 auto;
-  }
-}
-
-@media screen and (max-width: 984px) {
-  
-}
-
-@media screen and (max-width: 568px) {
-  .content__section {
-    padding: 0;
-  }
-}
