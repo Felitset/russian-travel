@@ -3,7 +3,7 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
   gap: 16px;
-  margin: 0 auto 92px;
+  margin: 0 auto;
   padding: 0 48px 0;
 }
 
@@ -21,7 +21,7 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(6, 1fr);
     gap: 16px;
-    margin: 0 auto 88px;
+    margin: 0 auto;
     padding: 0 24px 0;
   }
 }
@@ -31,7 +31,7 @@
     grid-template-columns: 1fr;
     grid-template-rows: repeat(12, 1fr);
     gap: 16px;
-    margin: 0 auto 64px;
+    margin: 0 auto;
     padding: 0 16px 0;
   }
 }

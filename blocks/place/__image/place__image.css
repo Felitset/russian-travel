@@ -17,7 +17,7 @@
   }
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 631px) {
   .place__image {
     max-width: 320px;
     grid-row: 3;
