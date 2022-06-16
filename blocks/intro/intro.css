@@ -1,5 +1,4 @@
 .intro {
-  min-height: 429px;
   font-family: 'Inter', Arial, sans-serif;
   max-width: 984px;
   display: flex;
@@ -22,5 +21,6 @@
 @media screen and (max-width: 568px) {
   .intro {
     padding: 0 16px;
+    align-items: center;
   }
 }

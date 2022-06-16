@@ -2,8 +2,24 @@
   color: #ffffff;
   text-decoration: none;
   margin-right: 18px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  transition: 0.3s;
 }
 
 .footer__link:last-child {
   margin: 0;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 631px) {
+  .footer__link {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+  }
 }

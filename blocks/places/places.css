@@ -2,7 +2,6 @@
   display: grid;
   grid-template-rows: repeat(5, auto);
   row-gap: 80px;
-  padding-left: 100px;
 }
 
 @media screen and (max-width: 1140px) {
@@ -18,7 +17,7 @@
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 767px) {
   .places {
     row-gap: 50px;
     padding: 0;
